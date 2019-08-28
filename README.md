@@ -1,1 +1,2 @@
-# Ghost-Landing #https://jolly-leavitt-ea3565.netlify.com/
+Ghost Landing Page
+https://jolly-leavitt-ea3565.netlify.com/
